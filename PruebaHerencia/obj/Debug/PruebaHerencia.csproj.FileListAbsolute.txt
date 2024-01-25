@@ -1,0 +1,8 @@
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.exe.config
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.exe
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\bin\Debug\PruebaHerencia.pdb
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.exe
+C:\Users\Alumno\Desktop\PruebaHerencia\PruebaHerencia\obj\Debug\PruebaHerencia.pdb
